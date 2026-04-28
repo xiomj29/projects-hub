@@ -21,4 +21,4 @@ This repository serves as a centralized index of my work, categorized by domain 
 ---
 
 **Contact**
-[Email](mailto:xiomarajaimesm@gmail.com) | [LinkedIn](linkedin.com/in/xiomara-montes) | [GitHub](https://github.com/xiomj29)
+[Email](mailto:xiomarajaimesm@gmail.com) | [LinkedIn](https://www.linkedin.com/in/xiomara-montes/) | [GitHub](https://github.com/xiomj29)
